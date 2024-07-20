@@ -1,0 +1,16 @@
+/* 椤甸潰涓櫧妗嗘墍鍦ㄥ厓绱狅紝涔熷氨鏄簩缁寸爜鎵€鍦ㄧ殑鐧借壊妗嗕綋 */
+.oauth .qr-code {
+  margin-top: 0;
+  width: 200px;
+  height: 200px;
+}
+
+/* "蹇墜鐧诲綍"瀛椾綋鏍峰紡 */
+.oauth .qr-code .qr-title {
+  display: none;
+}
+
+/* 浜岀淮鐮佷笅鏂规枃妗堟牱寮� */
+.oauth .qr-refresh-text {
+  display: none;
+}
